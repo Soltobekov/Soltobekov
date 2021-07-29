@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Uluk Soltobekov My nickname Ghostbart. I love programming. I'm from Kyrgyzstan, city Bishkek 
-- 👀 I’m interested in football, learning languages and codding
+- 👋 Hi, I’m Uluk Soltobekov My nickname Ghostbart. I'm from Kyrgyzstan
+- 👀 I’m interested in learning languages and codding
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
